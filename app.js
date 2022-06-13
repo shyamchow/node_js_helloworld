@@ -13,7 +13,7 @@ app.get("/", (req, res) => {
 // Using send function we send
 // response to the client
 // Here we are sending html
-res.send("<h1> Hello TGH Tech123</h1>");
+res.send("<h1> Hello TGH Tech</h1>");
 });
 
 // It configures the system to listen
